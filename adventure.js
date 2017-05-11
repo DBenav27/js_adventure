@@ -34,3 +34,4 @@ var troll = prompt("You're walking through the forest, minding your own business
     default:
       console.log("I didn't understand your choice. Hit Run and try again, this time picking FIGHT, PAY, or RUN!");
   }
+ 
